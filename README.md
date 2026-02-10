@@ -1,60 +1,50 @@
 # Estefano Senhor Ferreira
 
-**`Software Engineer / FullStack Developer`**
-
-📍 Brasília, Brazil  
-🔗 [LinkedIn](https://www.linkedin.com/in/estefano-senhor-ferreira/)
+**Senior Software Engineer | .NET Developer | Software Architect & Solutions | Innovation in Software Engineering**  
 
 ---
 
-### 🛠 Skills & Technologies
+## 👨‍💻 Professional Profile
 
-#### Programming Languages
-<img align="left" alt="C#" title="C#" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
-<img align="left" alt="VB.NET" title="VB.NET" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualbasic/visualbasic-original.svg" />
-<img align="left" alt="VB6" title="VB6" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/visualbasic.svg" />
-<img align="left" alt="VBA" title="VBA" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/microsoftoffice.svg" />
-<img align="left" alt="ADVPL" title="ADVPL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/totvs.svg" />
-<img align="left" alt="Python" title="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-<img align="left" alt="TypeScript" title="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-<br/><br/>
+I am a specialist in software development and architecture with over 10 years of experience designing scalable, secure, and high-impact digital solutions. Holding a postgraduate degree in Software Architecture and Solutions and an extension course in Data Science from ITA (Aeronautics Institute of Technology), I combine deep technical expertise with a strategic vision to deliver tangible business results.
 
-#### Frameworks & Architecture
-<img align="left" alt=".NET Core" title=".NET Core" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" />
-<img align="left" alt="Angular" title="Angular" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
-<img align="left" alt="Docker" title="Docker" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
-<img align="left" alt="Kubernetes" title="Kubernetes" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" />
-<img align="left" alt="RabbitMQ" title="RabbitMQ" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/rabbitmq.svg" />
-<img align="left" alt="Microservices" title="Microservices" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/microstrategy.svg" />
-<br/><br/>
+My career is built on leading complex projects, implementing modern architectures, and applying agile and DevOps practices to accelerate delivery and ensure mission-critical quality.
 
-#### Design & Principles
-- CQRS  
-- Event Sourcing  
-- Domain-Driven Design (DDD)  
-- SOLID Principles  
-- Monoliths  
-- Distributed Systems  
+Beyond my corporate track record, I contribute to the advancement of the field through applied research. I am the author of CycloneNet (DOI: 10.5281/zenodo.18577056), a physics-guided deep learning framework for atmospheric forensic analysis. This project utilizes Spatio-Temporal Attention mechanisms to identify singularities in hurricane intensification, achieving an AUC of 0.97 and demonstrating my ability to merge advanced science with high-end engineering into innovative solutions.
 
-#### Databases
-<img align="left" alt="MSSQL" title="MSSQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-original.svg" />
-<img align="left" alt="Oracle" title="Oracle" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" />
-<img align="left" alt="PostgreSQL" title="PostgreSQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
-<img align="left" alt="MySQL" title="MySQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-<img align="left" alt="MongoDB" title="MongoDB" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
-<img align="left" alt="DynamoDB" title="DynamoDB" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/amazondynamodb.svg" />
-<img align="left" alt="Redis" title="Redis" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" />
-<br/><br/>
+My purpose is to transform challenges into intelligent solutions, aligning cutting-edge technology with organizational and scientific needs to contribute to more efficient and sustainable environments.
 
-#### Cloud & Tools
-<img align="left" alt="AWS" title="AWS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/amazonaws.svg" />
-<img align="left" alt="Azure" title="Azure" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />
-<img align="left" alt="Git" title="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="Splunk" title="Splunk" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/splunk.svg" />
-<img align="left" alt="UIPath" title="UIPath" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/uipath.svg" />
-<img align="left" alt="Azure DevOps" title="Azure DevOps" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/azuredevops.svg" />
-<img align="left" alt="DataDog" title="DataDog" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/datadog.svg" />
-<img align="left" alt="Jira" title="Jira" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" />
-<img align="left" alt="Jenkins" title="Jenkins" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" />
+---
 
-<br/><br/>
+## 🛠️ Tech Stack
+
+### **Backend & Core**
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40" title="C#" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="40" height="40" title=".NET Core" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="40" height="40" title=".NET Framework" />
+
+### **Frontend & Frameworks**
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40" height="40" title="Angular" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" title="TypeScript" />
+
+### **Databases**
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="40" height="40" title="SQL Server" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" title="PostgreSQL" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="40" height="40" title="Oracle" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" title="MongoDB" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="40" height="40" title="Redis" />
+
+### **Infrastructure & Tools**
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" title="Docker" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40" height="40" title="Kubernetes" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40" height="40" title="Azure" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="40" height="40" title="Jenkins" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" title="Git" />
+
+### **Additional Technologies & Legacy**
+- **VB.NET, VB6, VBA:** Extensive experience in maintenance and migration projects.
+- **ADVPL (Protheus/TOTVS):** Development and customization for ERP systems.
+- **Python:** Scripting, automation, and backend services.
+- **RabbitMQ, Microservices:** Event-driven architecture and distributed systems.
+- **AWS, Splunk, UiPath, Datadog, Jira:** Practical experience in professional environments.
+
+---
+
+## 💼 Experience Highlights
+
+- **Modernizing Legacy Systems:** Successfully led migrations from VB6/VB.NET to modern .NET (Core 6/8) with Angular frontends, improving performance and reducing maintenance overhead.
+- **Full-Stack Development:** Built and maintained enterprise-grade applications using ASP.NET Core, Web API, SQL Server, and Angular.
+- **Database Expertise:** Designed schemas, optimized complex queries, and managed migrations for SQL Server, PostgreSQL, and Oracle databases.
+- **Team Collaboration:** Active participant in Agile/Scrum processes, conducted code reviews, and provided mentorship to junior developers.
+- **Problem Solver:** Focused on delivering pragmatic, business-oriented solutions with clean and maintainable code.
+
+---
