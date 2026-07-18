@@ -72,7 +72,7 @@ The validated contribution is the dataset and the auditable pipeline: the modeli
 
 **CycloneNet** — *A Reproducible Pipeline and Leakage-Safe Two-Basin Dataset for Tropical-Cyclone Rapid-Intensification Analysis*
 
-- 📄 **Preprint & dataset:** [10.5281/zenodo.21413397](https://doi.org/10.5281/zenodo.21413397)
+- 📄 **Preprint & dataset:** [10.5281/zenodo.21433809](https://doi.org/10.5281/zenodo.21433809)
 - 💻 **Code (MIT):** [github.com/estefano-ferreira/cyclone-net](https://github.com/estefano-ferreira/cyclone-net)
 - 📊 **Dataset (CC BY 4.0):** 16,780 events · 992 cyclones · 1980–2023 · storm-level splits · byte-reproducible provenance
 
