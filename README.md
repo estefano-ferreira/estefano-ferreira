@@ -2,7 +2,7 @@
 
 **Senior Software Engineer · Software Architect · AI Engineer**
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21413397.svg)](https://doi.org/10.5281/zenodo.21413397)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21433809.svg)](https://zenodo.org/records/21433809)
 
 ---
 
@@ -10,7 +10,7 @@
 
 Software engineer and architect with 11+ years of experience designing scalable, secure, and high-impact systems. I hold a postgraduate degree in Software Architecture & Solutions and an extension course in Data Science from ITA (Instituto Tecnológico de Aeronáutica). My work centers on leading complex migrations, implementing modern architectures, and applying agile and DevOps practices to deliver mission-critical quality.
 
-Alongside my corporate track record, I pursue applied, reproducibility-first research. As the author of **CycloneNet** ([DOI: 10.5281/zenodo.21413397](https://doi.org/10.5281/zenodo.21413397)), I used **Python** to build an end-to-end machine-learning pipeline and to **train and evaluate deep-learning models (CNNs)** testing hypotheses about tropical-cyclone rapid intensification (RI). The models run on a **leakage-safe, two-basin dataset** I assembled from ERA5 reanalysis and IBTrACS — **16,780 events from 992 cyclones** (East Pacific + North Atlantic, 1980–2023) — with storm-level train/test splits that prevent leakage and a byte-reproducible provenance chain.
+Alongside my corporate track record, I pursue applied, reproducibility-first research. As the author of **CycloneNet** ([DOI: 10.5281/zenodo.21413397](https://doi.org/10.5281/zenodo.21433809)), I used **Python** to build an end-to-end machine-learning pipeline and to **train and evaluate deep-learning models (CNNs)** testing hypotheses about tropical-cyclone rapid intensification (RI). The models run on a **leakage-safe, two-basin dataset** I assembled from ERA5 reanalysis and IBTrACS — **16,780 events from 992 cyclones** (East Pacific + North Atlantic, 1980–2023) — with storm-level train/test splits that prevent leakage and a byte-reproducible provenance chain.
 
 The validated contribution is the dataset and the auditable pipeline: the modeling claims from earlier versions were formally withdrawn and corrected in v3 — a self-correction I treat as part of doing the work properly.
 
