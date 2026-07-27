@@ -2,7 +2,7 @@
 
 **Senior Software Engineer · Software Architect · AI Engineer**
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21433809.svg)](https://zenodo.org/records/21433809)
+[![DOI:10.5281/zenodo.21433809](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.21433809-blue?style=flat-square)](https://doi.org/10.5281/zenodo.21433809)
 
 ---
 
@@ -55,16 +55,26 @@ The validated contribution is the dataset and the auditable pipeline: the modeli
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
 ![UiPath](https://img.shields.io/badge/UiPath-FA4616?style=flat-square&logo=uipath&logoColor=white)
 
-**AI / LLM Engineering** *(actively building — project in progress)*
+**AI / Machine Learning Engineering** *(actively building — project in progress)*
 
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=claude&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=flat-square)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-FF6F00?style=flat-square)
 ![RAG](https://img.shields.io/badge/RAG-6E56CF?style=flat-square)
 ![MCP](https://img.shields.io/badge/MCP-6E56CF?style=flat-square)
 ![LLM Guardrails](https://img.shields.io/badge/LLM%20Guardrails-6E56CF?style=flat-square)
 ![Context Engineering](https://img.shields.io/badge/Context%20Engineering-6E56CF?style=flat-square)
 ![Model-Oriented Architectures](https://img.shields.io/badge/Model--Oriented%20Architectures-6E56CF?style=flat-square)
 
-**Also:** VB.NET · VB6 · VBA · ADVPL (Protheus/TOTVS) · Microservices & event-driven architecture
+**Also**
+
+![VB.NET](https://img.shields.io/badge/VB.NET-512BD4?style=flat-square)
+![VB6](https://img.shields.io/badge/VB6-5C2D91?style=flat-square)
+![VBA](https://img.shields.io/badge/VBA-217346?style=flat-square)
+![ADVPL](https://img.shields.io/badge/ADVPL-005AA9?style=flat-square)
+![Protheus](https://img.shields.io/badge/Protheus%20(TOTVS)-005AA9?style=flat-square)
+![Microservices](https://img.shields.io/badge/Microservices-0EA5E9?style=flat-square)
+![Event-Driven](https://img.shields.io/badge/Event--Driven%20Architecture-0EA5E9?style=flat-square)
 
 ---
 
